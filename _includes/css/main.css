@@ -108,6 +108,26 @@ header .intro-text .skills {
     font-weight: 300;
 }
 
+header {
+    text-align: center;
+    color: #fff;
+    background-attachment: scroll;
+    background:
+      /* top, transparent red, faked with gradient */
+      linear-gradient(
+        rgba(39, 42, 51, 0.75),
+        rgba(39, 42, 51, 0.75)
+      ),
+      /* bottom, image */
+      url('{{ site.baseurl }}/img/oldwell.jpg');
+    background-position: center center;
+    background-repeat: none;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
 @media(min-width:768px) {
     header .container {
         padding-top: 200px;
@@ -469,8 +489,10 @@ footer .footer-below {
     bottom: 0;
     left: 40px;
     width: 2px;
+    /*margin-left: 28.5px;*/
     margin-left: -1.5px;
     background-color: #f1f1f1;
+    /*height: 715px;*/
 }
 
 .timeline>li {
@@ -522,8 +544,7 @@ footer .footer-below {
     border-radius: 100%;
     text-align: center;
     color: #fff;
-    background-color: GREEN;
-    /*background-color: #{{ site.color.primary }};*/
+    background-color: #{{ site.color.primary }};
     /*HERE*/
 }
 
@@ -571,9 +592,39 @@ footer .footer-below {
     margin-bottom: 0;
 }
 
+.section-subheading {
+  margin-bottom: 35px;
+}
+
+#resume h3 {
+  text-align: center;
+  margin-bottom: 3.5rem;
+}
+
+#resume .sidebar ul {
+  padding-left: 30px;
+}
+
+#resume ul li {
+  font-size: 20px;
+}
+
+#resume .sidebar div.sidebar-sections:not(:first-child) {
+  margin-top: 5rem;
+}
+
+#resume .sidebar div.education {
+  margin-top: 3rem !important;
+}
+
+#resume .sidebar div.affiliations {
+  margin-top: 3rem !important;
+}
+
 @media(min-width:768px) {
     .timeline:before {
-        left: 50%;
+        left: 79.5%;
+        height: 1115px;
     }
 
     .timeline>li {
@@ -583,16 +634,16 @@ footer .footer-below {
 
     .timeline>li .timeline-panel {
         float: left;
-        width: 41%;
+        width: 65%;
         padding: 0 20px 20px 30px;
         text-align: right;
     }
 
     .timeline>li .timeline-image {
         left: 50%;
-        width: 100px;
-        height: 100px;
-        margin-left: -50px;
+        width: 145px;
+        height: 145px;
+        margin-left: 19%;
     }
 
     .timeline>li .timeline-image h4 {
@@ -608,7 +659,17 @@ footer .footer-below {
     }
 }
 
+@media(min-width:992px) and (max-width: 1200px) {
+  .timeline:before {
+      left: 79% !important;
+      height: 1015px;
+  }
+}
+
 @media(min-width:992px) {
+    .timeline:before {
+        left: 80%;
+    }
     .timeline>li {
         min-height: 150px;
     }
@@ -620,7 +681,7 @@ footer .footer-below {
     .timeline>li .timeline-image {
         width: 150px;
         height: 150px;
-        margin-left: -75px;
+        margin-left: 21%;
     }
 
     .timeline>li .timeline-image h4 {
@@ -639,14 +700,14 @@ footer .footer-below {
         min-height: 170px;
     }
 
-    .timeline>li .timeline-panel {
+    /*.timeline>li .timeline-panel {
         padding: 0 20px 20px 100px;
-    }
+    }*/
 
     .timeline>li .timeline-image {
         width: 170px;
         height: 170px;
-        margin-left: -85px;
+        margin-left: 17%;
     }
 
     .timeline>li .timeline-image h4 {
@@ -656,4 +717,20 @@ footer .footer-below {
     .timeline>li.timeline-inverted>.timeline-panel {
         padding: 0 100px 20px 20px;
     }
+}
+
+#contact {
+  background-color: #{{ site.color.primary }};
+}
+
+.profile-image {
+  background-color: white;
+  padding: 5px;
+  border-radius: 50%;
+  max-width: 250px;
+}
+
+.about-image {
+  float: left;
+  margin-right: 4rem;
 }

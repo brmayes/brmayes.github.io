@@ -3,8 +3,8 @@
         <div class="footer-above">
             <div class="container">
                 <div class="row">
-                    <div class="footer-col col-md-4">
-                        <h3>{{ site.footer.location }}</h3>
+                    <div class="footer-col col-md-8">
+                        <h3 class="footer-contact">{{ site.footer.location }}</h3>
                         <p>
                             {% for adress in site.address %}
                                 {{ adress.line }} <br>
@@ -16,15 +16,15 @@
                         <ul class="list-inline">
                             {% for network in site.social %}
                             <li>
-                                <a href="{{ network.url }}" class="btn-social btn-outline"><i class="fa fa-fw fa-{{ network.title }}"></i></a>
+                                <a href="{{ network.url }}" class="btn-social btn-outline" target="_blank"><i class="fa fa-fw fa-{{ network.title }}"></i></a>
                             </li>
 		                    {% endfor %}
                         </ul>
                     </div>
-                    <div class="footer-col col-md-4">
+                    <!-- <div class="footer-col col-md-4">
                         <h3>{{ site.footer.credits }}</h3>
                         <p>{{ site.credits }}</p>
-                    </div>
+                    </div> -->
                 </div>
             </div>
         </div>
