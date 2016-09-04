@@ -1,0 +1,404 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Mixfolio\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-05-06 12:00+0530\n"
+"PO-Revision-Date: 2014-05-06 12:01+0530\n"
+"Last-Translator: Chandra <maharzan@gmail.com>\n"
+"Language-Team: Graph Paper Press\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: United States\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:15
+msgid "Well this is somewhat embarrassing, isn&rsquo;t it?"
+msgstr ""
+
+#: ../404.php:21
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching, or one of the links below, can help."
+msgstr ""
+
+#: ../404.php:30
+msgid "Most Used Categories"
+msgstr ""
+
+#: ../404.php:39
+#, php-format
+msgid "Try looking in the monthly archives. %1$s"
+msgstr ""
+
+#: ../archive.php:24
+#: ../category.php:17
+#, php-format
+msgid "Category Archives: %s"
+msgstr ""
+
+#: ../archive.php:27
+#, php-format
+msgid "Tag Archives: %s"
+msgstr ""
+
+#: ../archive.php:34
+#: ../author.php:26
+#, php-format
+msgid "Author Archives: %s"
+msgstr ""
+
+#: ../archive.php:42
+#, php-format
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: ../archive.php:45
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: ../archive.php:48
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: ../archive.php:51
+msgid "Archives"
+msgstr ""
+
+#: ../archive.php:80
+#: ../author.php:58
+#: ../category.php:47
+msgid "Nothing Found"
+msgstr ""
+
+#: ../archive.php:86
+#: ../author.php:62
+#: ../category.php:52
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr ""
+
+#: ../comments.php:39
+#: ../comments.php:59
+msgid "Comment navigation"
+msgstr ""
+
+#: ../comments.php:40
+#: ../comments.php:60
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: ../comments.php:41
+#: ../comments.php:61
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: ../comments.php:71
+msgid "Comments are closed."
+msgstr ""
+
+#: ../content-aside.php:24
+#: ../content-gallery.php:39
+#: ../content-image.php:31
+#: ../content-video.php:30
+#: ../content.php:43
+#: ../format-gallery.php:32
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../content-aside.php:25
+#: ../content-gallery.php:40
+#: ../content-image.php:32
+#: ../content-page.php:18
+#: ../content-video.php:31
+#: ../content.php:63
+#: ../format-gallery.php:42
+msgid "Pages:"
+msgstr ""
+
+#: ../content-aside.php:34
+#: ../content-gallery.php:45
+#: ../content-image.php:38
+#: ../content-video.php:37
+#: ../content.php:93
+#: ../format-gallery.php:72
+msgid "Leave a comment"
+msgstr ""
+
+#: ../content-aside.php:34
+#: ../content-gallery.php:29
+#: ../content-gallery.php:45
+#: ../content-image.php:38
+#: ../content-video.php:37
+#: ../content.php:93
+#: ../format-gallery.php:72
+msgid "1 Comment"
+msgstr ""
+
+#: ../content-aside.php:34
+#: ../content-gallery.php:29
+#: ../content-gallery.php:45
+#: ../content-image.php:38
+#: ../content-video.php:37
+#: ../content.php:93
+#: ../format-gallery.php:72
+msgid "% Comments"
+msgstr ""
+
+#: ../content-aside.php:36
+#: ../content-gallery.php:47
+#: ../content-image.php:40
+#: ../content-page.php:19
+#: ../content-video.php:39
+#: ../content.php:97
+#: ../format-gallery.php:76
+msgid "Edit"
+msgstr ""
+
+#: ../content-gallery.php:21
+msgid "Gallery"
+msgstr ""
+
+#: ../content-gallery.php:24
+msgid "Info"
+msgstr ""
+
+#: ../content-gallery.php:29
+msgid "Comments"
+msgstr ""
+
+#: ../content-gallery.php:44
+msgid " | "
+msgstr ""
+
+#: ../content-grid.php:10
+#: ../content.php:12
+#: ../format-gallery.php:14
+#, php-format
+msgid "Permalink to %s"
+msgstr ""
+
+#: ../content.php:71
+#: ../content.php:82
+#: ../format-gallery.php:50
+#: ../format-gallery.php:61
+msgid ", "
+msgstr ""
+
+#: ../content.php:75
+#: ../format-gallery.php:54
+#, php-format
+msgid "Posted in %1$s"
+msgstr ""
+
+#: ../content.php:86
+#: ../format-gallery.php:65
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#: ../footer.php:16
+#, php-format
+msgid "Proudly powered by %1$s"
+msgstr ""
+
+#: ../footer.php:18
+#, php-format
+msgid "Theme: %1$s by %2$s"
+msgstr ""
+
+#: ../footer.php:27
+msgid "Contact"
+msgstr ""
+
+#: ../functions.php:88
+msgid "Primary Menu"
+msgstr ""
+
+#: ../functions.php:89
+msgid "Secondary Menu"
+msgstr ""
+
+#: ../functions.php:117
+msgid "Sidebar 1"
+msgstr ""
+
+#: ../header.php:46
+msgid "Menu"
+msgstr ""
+
+#: ../header.php:47
+msgid "Skip to content"
+msgstr ""
+
+#: ../image.php:26
+#, php-format
+msgid "Published <span class=\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\" pubdate>%2$s</time></span> at <a href=\"%3$s\" title=\"Link to full-size image\">%4$s &times; %5$s</a> in <a href=\"%6$s\" title=\"Return to %7$s\" rel=\"gallery\">%7$s</a>"
+msgstr ""
+
+#: ../image.php:40
+msgid "&larr; Previous"
+msgstr ""
+
+#: ../image.php:41
+msgid "Next &rarr;"
+msgstr ""
+
+#: ../image.php:94
+#, php-format
+msgid "<a class=\"comment-link\" href=\"#respond\" title=\"Post a comment\">Post a comment</a> or leave a trackback: <a class=\"trackback-link\" href=\"%s\" title=\"Trackback URL for your post\" rel=\"trackback\">Trackback URL</a>."
+msgstr ""
+
+#: ../image.php:96
+#, php-format
+msgid "Comments are closed, but you can leave a trackback: <a class=\"trackback-link\" href=\"%s\" title=\"Trackback URL for your post\" rel=\"trackback\">Trackback URL</a>."
+msgstr ""
+
+#: ../image.php:98
+msgid "Trackbacks are closed, but you can <a class=\"comment-link\" href=\"#respond\" title=\"Post a comment\">post a comment</a>."
+msgstr ""
+
+#: ../image.php:100
+msgid "Both comments and trackbacks are currently closed."
+msgstr ""
+
+#: ../part-hero.php:30
+msgid "Follow"
+msgstr ""
+
+#: ../search.php:17
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: ../search.php:43
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr ""
+
+#: ../searchform.php:10
+msgid "Search"
+msgstr ""
+
+#: ../sidebar.php:27
+msgid "Meta"
+msgstr ""
+
+#: ../inc/menus.php:20
+msgid "Recent Work:"
+msgstr ""
+
+#: ../inc/template-tags.php:26
+msgid "Post navigation"
+msgstr ""
+
+#: ../inc/template-tags.php:44
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr ""
+
+#: ../inc/template-tags.php:54
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../inc/template-tags.php:80
+msgid "Pingback:"
+msgstr ""
+
+#: ../inc/template-tags.php:80
+#: ../inc/template-tags.php:103
+msgid "(Edit)"
+msgstr ""
+
+#: ../inc/template-tags.php:90
+#, php-format
+msgid "%s <span class=\"says\">says:</span>"
+msgstr ""
+
+#: ../inc/template-tags.php:93
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../inc/template-tags.php:101
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: ../inc/template-tags.php:131
+#, php-format
+msgid "<a class=\"posted-on\"href=\"%1$s\" title=\"%2$s\" rel=\"bookmark\"><time class=\"entry-date\" datetime=\"%3$s\" pubdate>%4$s</time></a>"
+msgstr ""
+
+#: ../inc/template-tags.php:138
+#, php-format
+msgid "<a class=\"posted-on single-author-blog\"href=\"%1$s\" title=\"%2$s\" rel=\"bookmark\"><time class=\"entry-date\" datetime=\"%3$s\" pubdate>Posted on %4$s</time></a>"
+msgstr ""
+
+#: ../inc/template-tags.php:156
+#, php-format
+msgid "<a class=\"author url fn n\" href=\"%1$s\" title=\"%2$s\" rel=\"author\">By %3$s</a>"
+msgstr ""
+
+#: ../inc/template-tags.php:158
+#, php-format
+msgid "View all posts by %s"
+msgstr ""
+
+#: ../inc/theme-options/theme-options.php:49
+msgid "Display Welcome Area"
+msgstr ""
+
+#: ../inc/theme-options/theme-options.php:54
+msgid "Welcome Area Title"
+msgstr ""
+
+#: ../inc/theme-options/theme-options.php:55
+msgid "Welcome Area Message"
+msgstr ""
+
+#: ../inc/theme-options/theme-options.php:56
+msgid "Twitter ID"
+msgstr ""
+
+#: ../inc/theme-options/theme-options.php:57
+msgid "Display Contact Information"
+msgstr ""
+
+#: ../inc/theme-options/theme-options.php:58
+msgid "Contact Details"
+msgstr ""
+
+#: ../inc/theme-options/theme-options.php:59
+msgid "Contact Email Address"
+msgstr ""
+
+#: ../inc/theme-options/theme-options.php:87
+#: ../inc/theme-options/theme-options.php:88
+msgid "Theme Options"
+msgstr ""
+
+#: ../inc/theme-options/theme-options.php:128
+msgid "Display a welcome message at the top of your home page."
+msgstr ""
+
+#: ../inc/theme-options/theme-options.php:139
+msgid "Something short and snazzy, like &#8220;Howdy!&#8221;"
+msgstr ""
+
+#: ../inc/theme-options/theme-options.php:150
+msgid "This message will appear above the thumbnails on your home page."
+msgstr ""
+
+#: ../inc/theme-options/theme-options.php:161
+msgid "Tweets will be shown alongside your welcome message."
+msgstr ""
+
+#: ../inc/theme-options/theme-options.php:171
+msgid "Display contact information alongside your welcome message."
+msgstr ""
+
+#: ../inc/theme-options/theme-options.php:206
+#, php-format
+msgid "%s Theme Options"
+msgstr ""
+

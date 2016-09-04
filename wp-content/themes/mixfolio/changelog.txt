@@ -1,0 +1,57 @@
+== Changelog ==
+
+= Version 1.2.6 (July 14, 2014) =
+  * Twitter issue fix
+
+= Version 1.2.5 (May 6, 2014) =
+  * POT file added.
+
+= Version 1.2.4 (June 3, 2013) =
+  * Twitter updated.
+
+= Version 1.2.3 (September 17, 2012) =
+  * Adding active class on video post format tabs.
+
+= Version 1.2.2 (September 16, 2012) =
+  * Changing out old responsive menu approach for new WP.com recommended approach.
+
+= Version 1.2.1 (September 11, 2012) =
+  * Menu bug where the menu was not aligned on mobile devices is fixed.
+
+= Version 1.2 (July 9, 2012) =
+  * Merge with WordPress.com version.
+  * Added header image option
+  * Added custom background option
+  * Added new secondary menu
+  * Integrates with theme customizer
+  * Removed shuffle js
+  * Removed category theme options
+
+= Version 1.1 (May 13, 2012) =
+  * Migrated from Option Tree to GPP Theme Options
+
+= Version 1.0.7 (March 22, 2012) =
+  * Added drop down menu support
+
+= Version 1.0.6 (March 20, 2012) =
+  * Added fix so hover effect works after shuffle.
+
+= Version 1.0.5 (January 4, 2012) =
+  * Corrected primary navivagation when viewed in portrait mode.
+
+= Version 1.0.4 (December 15, 2011) =
+  * Added Localization
+
+= Version 1.0.3 (Dec 5, 2011) =
+  * Post format plugin updated
+  * Image overly float fix
+  * CSS conflicts with gap shortcodes fix
+  * IE 7 & 8 shuffle fix
+  * Usability fix for shuffle anchors using javascript:void(0); instead of #
+
+= Version 1.0.1 (Nov 4, 2011) =
+  * Videos are now responsive
+  * Logo bugfix
+
+= Version 1.0 (Nov 3, 2011) =
+  * Initial release

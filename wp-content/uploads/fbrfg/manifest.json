@@ -1,0 +1,17 @@
+{
+	"name": "brmayes.com",
+	"icons": [
+		{
+			"src": "\/wp-content\/uploads\/fbrfg\/android-chrome-192x192.png?v=QE5ENoJeEY",
+			"sizes": "192x192",
+			"type": "image\/png"
+		},
+		{
+			"src": "\/wp-content\/uploads\/fbrfg\/android-chrome-512x512.png?v=QE5ENoJeEY",
+			"sizes": "512x512",
+			"type": "image\/png"
+		}
+	],
+	"theme_color": "#ffffff",
+	"display": "standalone"
+}
