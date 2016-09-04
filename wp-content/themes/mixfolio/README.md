@@ -1,4 +1,0 @@
-mixfolio
-========
-
-a WordPress theme
