@@ -522,7 +522,9 @@ footer .footer-below {
     border-radius: 100%;
     text-align: center;
     color: #fff;
-    background-color: #{{ site.color.primary }};
+    background-color: GREEN;
+    /*background-color: #{{ site.color.primary }};*/
+    /*HERE*/
 }
 
 .timeline>li .timeline-image h4 {
