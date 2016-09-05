@@ -4,7 +4,7 @@ title: Brittany Renee Mayes
 email: brmayes16@gmail.com
 url: brmayes.github.io
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-skills: "Front End Web Developer - Interactive Graphics and News Apps Developer"
+skills: "Interactive Graphics and News Apps Developer & Front End Web Developer"
 meta_author: Mayes Brittany
 
 # Google webmaster tools
@@ -34,7 +34,7 @@ color:
 footer:
   copyright: Brittany Renee Mayes
   location: Say Hi
-  social: Follow Me
+  social: Say Hi
   credits: ???
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
@@ -47,6 +47,8 @@ social:
     url: https://www.linkedin.com/in/brittanymayes
   - title: instagram
     url: https://www.instagram.com/britrenee_
+  - title: envelope-o
+    url: mailto:brmayes16@gmail.com?Subject=Hello%20again
 
 # Postal address (add as many lines as necessary)
 address:

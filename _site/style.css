@@ -56,7 +56,7 @@ hr.star-primary {
 
 hr.star-light:after,
 hr.star-primary:after {
-    content: "\f005";
+    content: "\f121";
     display: inline-block;
     position: relative;
     top: -.8em;
@@ -202,6 +202,10 @@ section {
     padding: 100px 0;
 }
 
+/*section#about.success {
+  padding-bottom: 0;
+}*/
+
 section h2 {
     margin: 0;
     font-size: 3em;
@@ -297,6 +301,10 @@ section.success {
     background: #fff;
 }
 
+.form-control {
+  color: #fff;
+}
+
 .floating-label-form-group {
     position: relative;
     margin-bottom: 0;
@@ -309,13 +317,17 @@ section.success {
     z-index: 1;
     position: relative;
     padding-right: 0;
-    padding-left: 0;
+    /*padding-left: 0;*/
     border: 0;
     border-radius: 0;
-    font-size: 1.5em;
+    font-size: 16px;
     background: 0 0;
     box-shadow: none!important;
     resize: none;
+}
+
+.floating-label-form-group input {
+  height: 55px;
 }
 
 .floating-label-form-group label {
@@ -349,8 +361,24 @@ section.success {
     color: #18bc9c;
 }
 
-form .row:first-child .floating-label-form-group {
-    border-top: 1px solid #eee;
+.form-email, .form-message, .form-name {
+  border-bottom: 0;
+}
+
+.form-control {
+  padding: 5px;
+  background-color: #233140 !important;
+}
+
+textarea.form-control {
+  height: 125px;
+  background-color: #233140;
+}
+
+input:-webkit-autofill, textarea:-webkit-autofill, select:-webkit-autofill {
+    background-color: #2c3e50 !important;
+    background-image: none;
+    color: rgb(0, 0, 0);
 }
 
 footer {
@@ -362,7 +390,7 @@ footer h3 {
 }
 
 footer .footer-above {
-    padding-top: 50px;
+    padding: 50px 0;
     background-color: #2c3e50;
 }
 
