@@ -249,6 +249,10 @@ section.success {
     transition: all ease .5s;
 }
 
+#portfolio .portfolio-link {
+  border: 6px solid #2c3e50;
+}
+
 #portfolio .portfolio-item .portfolio-link .caption:hover {
     opacity: 1;
 }
@@ -511,6 +515,16 @@ footer .footer-below {
     -webkit-transform: translateZ(0);
 }
 
+.post-modal .description {
+  text-align: left;
+  font-size: 16px;
+}
+
+.post-details {
+  text-align: left;
+  list-style-type: none;
+  padding-left: 0;
+}
 
 .timeline {
     position: relative;
@@ -529,6 +543,14 @@ footer .footer-below {
     margin-left: -1.5px;
     background-color: #f1f1f1;
     /*height: 715px;*/
+}
+
+ul.timeline::before {
+  display: none;
+}
+
+.section-timeline {
+  margin-bottom: 40px;
 }
 
 .timeline>li {
@@ -641,7 +663,7 @@ footer .footer-below {
   padding-left: 30px;
 }
 
-#resume ul li {
+#resume .sidebar ul li {
   font-size: 20px;
 }
 
@@ -768,5 +790,24 @@ footer .footer-below {
 
 .about-image {
   float: left;
-  margin-right: 4rem;
+  /*margin-right: 4rem;*/
+  width: 100%;
+  padding-top: 3px;
+}
+
+.job {
+  color: #b4bcc2;
+}
+
+.timeline-body p {
+  font-size: 16px;
+  color: #b4bcc2;
+}
+
+.timeline-bullets {
+  text-align: left;
+  font-size: 14px !important;
+  color: #b4bcc2;
+  margin-left: 60px;
+  display: none;
 }

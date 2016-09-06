@@ -10,27 +10,61 @@
             </div>
             <div class="container">
                 <div class="row">
-                    <div class="col-lg-8 col-lg-offset-2">
-                        <div class="modal-body">
-                            <h2>{{ post.title }}</h2>
-                            <hr class="star-primary">
-                            <img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
-                            <p>{{ post.description }}</p>
-                            <ul class="list-inline item-details">
-                                <li>Client:
-                                    <strong><a href="http://startbootstrap.com">{{ post.client }}</a>
-                                    </strong>
-                                </li>
-                                <li>Date:
-                                    <strong><a href="http://startbootstrap.com">{{ post.project-date }}</a>
-                                    </strong>
-                                </li>
-                                <li>Service:
+                    <div class="col-lg-10 col-lg-offset-1">
+                        <div class="modal-body post-modal">
+                          <h2>{{ post.title }}</h2>
+                          <h5>{{ post.project-date }}</h5>
+                          <hr class="star-primary">
+                          <div class="row">
+                            <div class="col-md-7">
+                              <a href="{{ post.link }}" target="_blank">
+                                <img src="img/thumbnails/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
+                              </a>
+                            </div>
+                            <div class="col-md-5">
+                              {% for p in post.description %}
+                                <p class="description">{{ p.para }}</p>
+                              {% endfor %}
+                              <ul class="item-details post-details">
+                                  <li><strong>{{ post.project-type }}:</strong>
+                                    <a href="{{ post.project-url }}" target="_blank">{{ post.project-title }}</a>
+                                  </li>
+                                <!-- {% if post.links != 'none' %}
+                                  <ul>
+                                    {{ for link in post.links }}
+                                      <li><strong>{{ link.type }}:</strong>
+                                        <a href="{{ link.url }}" target="_blank">{{ link.title }}</a>
+                                      </li>
+                                    {{ endfor }}
+                                  </ul>
+                                {% endif %} -->
+                                {% if post.code != 'none' %}
+                                  <li><strong>Code:</strong>
+                                    <a href="{{ post.code }}" target="_blank">Github Repository</a>
+                                  </li>
+                                {% endif %}
+                                {% if post.data != 'none' %}
+                                  <li><strong>Data:</strong>
+                                    <a href="{{ post.data-url }}" target="_blank">{{ post.data-title }}</a>
+                                  </li>
+                                {% endif %}
+                                <!-- <li><strong>Category:</strong>
                                     <strong><a href="http://startbootstrap.com">{{ post.category }}</a>
                                     </strong>
-                                </li>
-                            </ul>
-                            <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
+                                </li> -->
+                                  <li><strong>Tools:</strong>
+                                    <ul>
+                                      {% for tool in post.tools %}
+                                      <li>
+                                          {{ tool.title }}
+                                      </li>
+                                      {% endfor %}
+                                    </ul>
+                                  </li>
+                              </ul>
+                            </div>
+                          </div>
+                          <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
                         </div>
                     </div>
                 </div>
