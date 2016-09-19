@@ -11,7 +11,7 @@ category: Web Design and Development
 description:
   - para: For an international documentary project, a team of student videographers, reporters, developers and designers travelled to Bocas del Toro, Panama to tell the stories of the intersection of culture and environment.
   - para: Undercurrent is a combination of 5 short documentaries, interactive graphics, articles and 360 videos!
-  - para: &ast;&ast;Editor's note: This is now an award-winning project for its excellence and innovation in digital visual storytelling from the Online News Association.&ast;&ast;
+  - para: &ast;&ast;Editor's note&colon; This is now an award-winning project for its excellence and innovation in digital visual storytelling from the Online News Association.&ast;&ast;
 project-type: Project
 project-title: Undercurrent
 project-url: http://undercurrent360.com
