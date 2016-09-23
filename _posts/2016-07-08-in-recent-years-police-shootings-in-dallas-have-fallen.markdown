@@ -13,6 +13,7 @@ description:
 project-type: Article
 project-title: In Recent Years, Police Shootings In Dallas Have Fallen
 project-url: http://www.npr.org/2016/07/08/485274691/dallas-has-been-called-a-leader-in-police-training-transparency
+role: Data developer
 data-title: Dallas police shootings
 data-url: http://apps.npr.org/dailygraphics/graphics/dallaspd-shootings-20160708/data/dataset.csv
 tools:
@@ -21,6 +22,6 @@ tools:
   - title: Less
     url:
   - title: D3.js
-    url: 
+    url:
 
 ---

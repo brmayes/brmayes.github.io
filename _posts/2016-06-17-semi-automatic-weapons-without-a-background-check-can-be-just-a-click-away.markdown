@@ -13,6 +13,7 @@ description:
 project-type: Article
 project-title: Semi-Automatic Weapons Without A Background Check Can Be Just A Click Away
 project-url: http://www.npr.org/sections/alltechconsidered/2016/06/17/482483537/semi-automatic-weapons-without-a-background-check-can-be-just-a-click-away
+role: Data developer
 code: https://github.com/nprapps/armslist-scraper
 data-title: Armslist Listings
 data-url: http://apps.npr.org/armslist-analysis/armslist-listings-2016-06-16.csv

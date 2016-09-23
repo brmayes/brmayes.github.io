@@ -14,6 +14,7 @@ description:
 project-type: Article
 project-title: The 270 Project&#58; Try To Predict Who Will Win The Election
 project-url: http://www.npr.org/2016/06/30/483687093/the-270-project-try-to-predict-who-will-win-the-election
+role: Developer and designer
 code: https://github.com/nprapps/trump270
 data-title: Trump 270, adjustable version
 data-url: https://docs.google.com/spreadsheets/d/12_F0yhsXEPN1w3GOlQB4_NKGadXiRLOa9l-HQu5jSL8/edit?usp=sharing

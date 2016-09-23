@@ -20,6 +20,7 @@ project-links:
   - type: Chart
     title: Changes in Household Income
     url: http://nyc16.nytimes-institute.com/2016/05/27/candidate-guillermo-linares/household-income-chart/
+role: Web Editor and Developer
 code: none
 data: none
 tools:

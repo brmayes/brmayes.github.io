@@ -14,6 +14,7 @@ description:
 project-type: Project
 project-title: Stand At The Edge Of Geological Time
 project-url: http://apps.npr.org/rockymountain-vr/
+role: Front end web developer
 code: https://github.com/nprapps/rockymountain
 data: none
 tools:

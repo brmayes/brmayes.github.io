@@ -13,6 +13,7 @@ description:
 project-type: Graphic
 project-title: Team USA Lives Here&#58; Where America’s Rio Olympians Are From
 project-url: http://www.npr.org/sections/thetorch/2016/08/11/488547451/team-usa-lives-here-where-americas-rio-olympians-are-from?utm_campaign=storyshare&utm_source=twitter.com&utm_medium=social
+role: Data developer
 code: https://github.com/nprapps/dailygraphics
 data: http://www.teamusa.org/road-to-rio-2016/team-usa/athletes
 tools:

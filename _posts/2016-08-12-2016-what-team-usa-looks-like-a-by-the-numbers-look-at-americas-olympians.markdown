@@ -13,6 +13,7 @@ description:
 project-type: Graphic
 project-title: What Team USA Looks Like&#58; A By-The-Numbers Look At America’s Olympians
 project-url: http://www.npr.org/sections/thetorch/2016/08/11/487838010/what-team-usa-looks-like-a-by-the-numbers-look-at-america-s-olympic-athletes?utm_campaign=storyshare&utm_source=twitter.com&utm_medium=social
+role: Data developer
 code: https://github.com/nprapps/dailygraphics
 data: http://www.teamusa.org/road-to-rio-2016/team-usa/athletes
 tools:

@@ -5,8 +5,8 @@
     <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</description>
     <link>brmayes.github.io/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 06 Sep 2016 07:44:18 -0400</pubDate>
-    <lastBuildDate>Tue, 06 Sep 2016 07:44:18 -0400</lastBuildDate>
+    <pubDate>Fri, 23 Sep 2016 12:44:48 -0400</pubDate>
+    <lastBuildDate>Fri, 23 Sep 2016 12:44:48 -0400</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -95,7 +95,7 @@
     
       <item>
         <title>Undercurrent</title>
-        <description>[{&quot;para&quot;=&gt;&quot;For an international documentary project, a team of student videographers, reporters, developers and designers travelled to Bocas del Toro, Panama to tell the stories of the intersection of culture and environment.&quot;}, {&quot;para&quot;=&gt;&quot;Undercurrent is a combination of 5 short documentaries, interactive graphics, articles and 360 videos!&quot;}]</description>
+        <description>[{&quot;para&quot;=&gt;&quot;For an international documentary project, a team of student videographers, reporters, developers and designers travelled to Bocas del Toro, Panama to tell the stories of the intersection of culture and environment.&quot;}, {&quot;para&quot;=&gt;&quot;The project includes a combination of 5 short documentaries, interactive graphics, articles and 360 videos!&quot;}, {&quot;para&quot;=&gt;&quot;Undercurrent proudly received the Excellence and Innovation in Visual Digital Storytelling award at the 2016 Online Journalism Awards.&quot;}]</description>
         <pubDate>Fri, 13 May 2016 00:00:00 -0400</pubDate>
         <link>brmayes.github.io/web%20design%20and%20development/2016/05/13/undercurrent/</link>
         <guid isPermaLink="true">brmayes.github.io/web%20design%20and%20development/2016/05/13/undercurrent/</guid>
