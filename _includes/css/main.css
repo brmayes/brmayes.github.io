@@ -805,6 +805,8 @@ ul.timeline::before {
   display: none;
 }
 
-.portfolio-item:first-child {
-  margin-bottom: 29px;
+@media (min-width: 767px) {
+  #portfolio .portfolio-item:first-child {
+      margin: 0 0 29px;
+  }
 }
