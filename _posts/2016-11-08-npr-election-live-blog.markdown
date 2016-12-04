@@ -16,6 +16,7 @@ project-title: Live Coverage&#58; Election Night 2016
 project-url: http://www.npr.org/2016/11/08/500427835/live-blog-election-night-2016
 role: Backend engineer
 code: https://github.com/nprapps/debates
+data: none
 tools:
   - title: JavaScript
     url:
