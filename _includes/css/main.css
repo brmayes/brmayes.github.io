@@ -804,3 +804,7 @@ ul.timeline::before {
   margin-left: 60px;
   display: none;
 }
+
+.portfolio-item:first-child {
+  margin-bottom: 29px;
+}
