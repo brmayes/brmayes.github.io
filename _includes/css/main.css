@@ -222,6 +222,7 @@ section.success {
 #portfolio .portfolio-item {
     right: 0;
     margin: 0 0 15px;
+    max-height: 263px;
 }
 
 #portfolio .portfolio-item .portfolio-link {
