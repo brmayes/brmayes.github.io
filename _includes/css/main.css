@@ -282,12 +282,21 @@ section.success {
     }
 }
 
-@media(min-width:767px) and (max-width:992px) {
+@media (min-width:767px) and (max-width:992px) {
     #portfolio .portfolio-item .portfolio-link .caption .caption-content {
         font-size: 16px;
     }
     #portfolio .portfolio-item {
         max-height: 162px;
+    }
+    #portfolio {
+        background-color: green !important;
+    }
+}
+
+@media(max-width:767px) {
+    #portfolio .portfolio-item {
+        max-height: none;
     }
 }
 
