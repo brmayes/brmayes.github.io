@@ -289,9 +289,6 @@ section.success {
     #portfolio .portfolio-item {
         max-height: 162px;
     }
-    #portfolio {
-        background-color: green !important;
-    }
 }
 
 @media(max-width:767px) {
