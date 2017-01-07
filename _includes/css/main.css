@@ -254,7 +254,7 @@ section.success {
 #portfolio .portfolio-item .portfolio-link .caption .caption-content {
     position: absolute;
     top: 50%;
-    width: 100%;
+    width: 99%;
     height: 20px;
     margin-top: -30px;
     text-align: center;
@@ -279,6 +279,15 @@ section.success {
     #portfolio .portfolio-item {
         margin: 0 0 30px;
         max-height: 263px;
+    }
+}
+
+@media(min-width:767px and max-width:992px) {
+    #portfolio .portfolio-item .portfolio-link .caption .caption-content {
+        font-size: 16px;
+    }
+    #portfolio .portfolio-item {
+        max-height: 162px;
     }
 }
 
