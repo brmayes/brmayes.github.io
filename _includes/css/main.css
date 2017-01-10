@@ -275,10 +275,10 @@ section.success {
     z-index: 2;
 }
 
-@media(min-width:767px) {
+@media(min-width:767px) and (max-width: 1200px) {
     #portfolio .portfolio-item {
         margin: 0 0 30px;
-        max-height: 263px;
+        max-height: 215px;
     }
 }
 
@@ -292,6 +292,12 @@ section.success {
 }
 
 @media(max-width:767px) {
+    #portfolio .portfolio-item {
+        max-height: none;
+    }
+}
+
+@media(min-width:1200px) {
     #portfolio .portfolio-item {
         max-height: none;
     }
