@@ -299,7 +299,7 @@ section.success {
 
 @media(min-width:1200px) {
     #portfolio .portfolio-item {
-        max-height: none;
+        max-height: 260px;
     }
 }
 
@@ -828,7 +828,7 @@ ul.timeline::before {
   display: none;
 }
 
-@media (min-width: 767px) {
+@media (min-width: 767px) and (max-width:1200px) {
   #portfolio .portfolio-item:first-child {
       margin: 0 0 29px;
   }
