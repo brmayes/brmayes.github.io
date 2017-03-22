@@ -831,6 +831,10 @@ ul.timeline::before {
 
 .bold { font-weight: 700; }
 
+.featured-work {
+    margin-bottom: 25px;
+}
+
 .work-archive {
     text-align: center;
     margin-top: 50px;
