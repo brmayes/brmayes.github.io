@@ -229,6 +229,7 @@ section.success {
 #portfolio .portfolio-item {
     right: 0;
     margin: 0 0 15px;
+    max-height: 263px;
 }
 
 #portfolio .portfolio-item .portfolio-link {
@@ -260,7 +261,7 @@ section.success {
 #portfolio .portfolio-item .portfolio-link .caption .caption-content {
     position: absolute;
     top: 50%;
-    width: 100%;
+    width: 99%;
     height: 20px;
     margin-top: -30px;
     text-align: center;
@@ -281,9 +282,31 @@ section.success {
     z-index: 2;
 }
 
-@media(min-width:767px) {
+@media(min-width:767px) and (max-width: 1200px) {
     #portfolio .portfolio-item {
         margin: 0 0 30px;
+        max-height: 215px;
+    }
+}
+
+@media (min-width:767px) and (max-width:992px) {
+    #portfolio .portfolio-item .portfolio-link .caption .caption-content {
+        font-size: 16px;
+    }
+    #portfolio .portfolio-item {
+        max-height: 162px;
+    }
+}
+
+@media(max-width:767px) {
+    #portfolio .portfolio-item {
+        max-height: none;
+    }
+}
+
+@media(min-width:1200px) {
+    #portfolio .portfolio-item {
+        max-height: 260px;
     }
 }
 
@@ -789,10 +812,11 @@ ul.timeline::before {
 }
 
 .about-image {
-  float: left;
+  /*float: left;*/
   /*margin-right: 4rem;*/
   width: 100%;
   padding-top: 3px;
+  margin-bottom: 1.5rem;
 }
 
 .job {
@@ -816,15 +840,15 @@ ul.timeline::before {
 
 .work-archive {
     text-align: center;
-    margin-top: 20px;
+    margin-top: 50px;
 }
 
 @media (min-width: 767px) {
-  #portfolio .portfolio-item:first-child {
+  /*#portfolio .portfolio-item:first-child {
       margin: 0 0 29px;
-  }
+  }*/
 
-  div.col-sm-6 {
+  #portfolio div.col-sm-6 {
       padding: 0 50px;
   }
 }

@@ -5,9 +5,33 @@
     <description>Hello, there. I'm Brittany. Maker of graphics, news applications and websites.</description>
     <link>brmayes.github.io/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 21 Mar 2017 23:09:14 -0400</pubDate>
-    <lastBuildDate>Tue, 21 Mar 2017 23:09:14 -0400</lastBuildDate>
+    <pubDate>Tue, 21 Mar 2017 23:38:16 -0400</pubDate>
+    <lastBuildDate>Tue, 21 Mar 2017 23:38:16 -0400</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>Npr In Memoriam 2016</title>
+        <description>[{&quot;para&quot;=&gt;&quot;Music lost so many bright stars this year. Here's a list of just some of the legacies artists have left behind in 2016.&quot;}]</description>
+        <pubDate>Mon, 19 Dec 2016 00:00:00 -0500</pubDate>
+        <link>brmayes.github.io/graphic/2016/12/19/npr-in-memoriam-2016/</link>
+        <guid isPermaLink="true">brmayes.github.io/graphic/2016/12/19/npr-in-memoriam-2016/</guid>
+        
+        
+        <category>Graphic</category>
+        
+      </item>
+    
+      <item>
+        <title>Npr Best Music 2016</title>
+        <description>[{&quot;para&quot;=&gt;&quot;At the end of each year, NPR Music curates a list of the year's best music. This project showcases the lists from the music team's hard work in bringing to light the top music of the year. From \&quot;Heavy Rotation\&quot; to the \&quot;All Songs Considered Listeners' Poll\&quot;, this app has it all.&quot;}, {&quot;para&quot;=&gt;&quot;Other features include the ability to sample the music with an embed added to each modal, favorite to curate specific to the reader and a smarturl to add the music to the listener's platform of choice.&quot;}]</description>
+        <pubDate>Mon, 05 Dec 2016 00:00:00 -0500</pubDate>
+        <link>brmayes.github.io/application/2016/12/05/npr-best-music-2016/</link>
+        <guid isPermaLink="true">brmayes.github.io/application/2016/12/05/npr-best-music-2016/</guid>
+        
+        
+        <category>Application</category>
+        
+      </item>
     
       <item>
         <title>Npr Election Live Blog</title>
@@ -102,18 +126,6 @@
         
         
         <category>DataViz and Web Development</category>
-        
-      </item>
-    
-      <item>
-        <title>Undercurrent</title>
-        <description>[{&quot;para&quot;=&gt;&quot;For an international documentary project, a team of student videographers, reporters, developers and designers travelled to Bocas del Toro, Panama to tell the stories of the intersection of culture and environment.&quot;}, {&quot;para&quot;=&gt;&quot;The project includes a combination of 5 short documentaries, interactive graphics, articles and 360 videos!&quot;}, {&quot;para&quot;=&gt;&quot;Undercurrent proudly received the Excellence and Innovation in Visual Digital Storytelling award at the 2016 Online Journalism Awards.&quot;}]</description>
-        <pubDate>Fri, 13 May 2016 00:00:00 -0400</pubDate>
-        <link>brmayes.github.io/web%20design%20and%20development/2016/05/13/undercurrent/</link>
-        <guid isPermaLink="true">brmayes.github.io/web%20design%20and%20development/2016/05/13/undercurrent/</guid>
-        
-        
-        <category>Web Design and Development</category>
         
       </item>
     

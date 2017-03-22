@@ -805,10 +805,11 @@ ul.timeline::before {
 }
 
 .about-image {
-  float: left;
+  /*float: left;*/
   /*margin-right: 4rem;*/
   width: 100%;
   padding-top: 3px;
+  margin-bottom: 1.5rem;
 }
 
 .job {
@@ -832,15 +833,15 @@ ul.timeline::before {
 
 .work-archive {
     text-align: center;
-    margin-top: 20px;
+    margin-top: 50px;
 }
 
 @media (min-width: 767px) {
-  #portfolio .portfolio-item:first-child {
+  /*#portfolio .portfolio-item:first-child {
       margin: 0 0 29px;
-  }
+  }*/
 
-  div.col-sm-6 {
+  #portfolio div.col-sm-6 {
       padding: 0 50px;
   }
 }
