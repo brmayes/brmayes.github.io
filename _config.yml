@@ -3,7 +3,7 @@ branding: BRM
 title: Brittany Renee Mayes
 email: brmayes16@gmail.com
 url: brmayes.github.io
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+description: "Hello, there. I'm Brittany. Maker of graphics, news applications and websites."
 skills: "News Apps Designer & Front End Web Developer"
 meta_author: Mayes Brittany
 
@@ -53,8 +53,8 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 15452 Wheatfield Rd.
-  - line: Woodbridge, VA 22193
+  - line: 3635 11th St. NW
+  - line: Washington, DC 20010
 
 # Credits content
 credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'

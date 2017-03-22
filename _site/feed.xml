@@ -2,12 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Brittany Renee Mayes</title>
-    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</description>
+    <description>Hello, there. I'm Brittany. Maker of graphics, news applications and websites.</description>
     <link>brmayes.github.io/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Fri, 23 Sep 2016 12:44:48 -0400</pubDate>
-    <lastBuildDate>Fri, 23 Sep 2016 12:44:48 -0400</lastBuildDate>
+    <pubDate>Tue, 21 Mar 2017 23:09:14 -0400</pubDate>
+    <lastBuildDate>Tue, 21 Mar 2017 23:09:14 -0400</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>Npr Election Live Blog</title>
+        <description>[{&quot;para&quot;=&gt;&quot;The 2016 election was nothing short of constant twists and turns. On Election Day, NPR wanted coverage to match the fast pace of it all.&quot;}, {&quot;para&quot;=&gt;&quot;The live blog allowed reporters to quickly and easily add up-to-date coverage to NPR's site for election coverage. The blog was constantly updating and featured a \&quot;Get Caught Up\&quot; section that pulled Electoral College results and the most important information. The blog allowed embeddable photos, videos, graphics, tweets and links throughout, as well as the ability to share separate posts.&quot;}]</description>
+        <pubDate>Tue, 08 Nov 2016 00:00:00 -0500</pubDate>
+        <link>brmayes.github.io/application/2016/11/08/npr-election-live-blog/</link>
+        <guid isPermaLink="true">brmayes.github.io/application/2016/11/08/npr-election-live-blog/</guid>
+        
+        
+        <category>Application</category>
+        
+      </item>
     
       <item>
         <title>2016 What Team Usa Looks Like A By The Numbers Look At Americas Olympians</title>

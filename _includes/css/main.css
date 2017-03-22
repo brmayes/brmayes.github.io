@@ -805,8 +805,19 @@ ul.timeline::before {
   display: none;
 }
 
+.bold { font-weight: 700; }
+
+.work-archive {
+    text-align: center;
+    margin-top: 20px;
+}
+
 @media (min-width: 767px) {
   #portfolio .portfolio-item:first-child {
       margin: 0 0 29px;
+  }
+
+  div.col-sm-6 {
+      padding: 0 50px;
   }
 }
