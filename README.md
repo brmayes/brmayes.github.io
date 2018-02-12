@@ -1,32 +1,39 @@
-Freelancer Jekyll theme
-=========================
+## Webjeda Hagura Theme
 
-Jekyll theme based on [Freelancer bootstrap theme ](http://startbootstrap.com/templates/freelancer/)
+[**Demo**](http://webjeda.com/hagura)
 
-## How to use
- - Place a image in `/img/portfolio/`
- - Replace `you@email.com` in `_includes/contact_static.html` with your email address. refer to [formspree](http://formspree.io/) for more information.
- - Create posts to display your projects. Use the follow as an example:
-```txt
----
-layout: default
-modal-id: 1
-date: 2014-07-18
-img: cabin.png
-alt: image-alt
-project-date: July 2014
-client: The Client
-category: Web Development
-description: The description of the project
+Hagura is a theme made for blogs with long text paragraphs. Made to be easy on eyes as well with a switchable theme.
 
----
-```
+Suitable fonts are selected for better readability. Since the theme is created for smartphone reading, the theme is very light and it loads instantly even on a slow data connection.
 
-## Demo
-View this jekyll theme in action [here](https://jeromelachaud.github.io/freelancer-theme)
+The theme comes with pre-installed analytics, disqus and html compressor. But make sure you change key parameters in the _config.yml file.
 
-## Screenshot
-![screenshot](https://raw.githubusercontent.com/jeromelachaud/freelancer-theme/master/screenshot.png)
 
-=========
-For more details, read the [documentation](http://jekyllrb.com/)
+
+## Installation
+* Fork the repository
+* Go to settings and set Github Pages source as master.
+* Your new site should be ready at https://username.github.io/hagura/
+
+Watch my video on instlallation
+<iframe width="100%" height="360" src="https://www.youtube.com/embed/T2nx6tj-ZH4?rel=0" frameborder="0" allowfullscreen></iframe>
+
+
+
+Default theme will look like this
+
+![webjeda gatok jekyll theme](http://webjeda.com/hagura/images/hagura-1.png)
+
+
+This theme is responsive.
+
+![webjeda gatok responsive jekyll theme](http://webjeda.com/hagura/images/hagura-responsive.png)
+
+
+
+## Development
+Make changes to the **master** branch and create a pull request. Do not use **gh-pages** branch as it is used to host the theme.
+
+
+## License
+MIT License 

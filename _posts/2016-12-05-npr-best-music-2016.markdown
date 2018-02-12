@@ -1,6 +1,7 @@
 ---
 
 layout: default
+published: true
 modal-id: 10
 date: 2016-12-05
 img: best-music.jpg
@@ -12,7 +13,7 @@ description:
   - para: At the end of each year, NPR Music curates a list of the year's best music. This project showcases the lists from the music team's hard work in bringing to light the top music of the year. From "Heavy Rotation" to the "All Songs Considered Listeners' Poll", this app has it all.
   - para: Other features include the ability to sample the music with an embed added to each modal, favorite to curate specific to the reader and a smarturl to add the music to the listener's platform of choice.
 project-type: Application
-project-title: Best Music of 2016
+project-title: Best Music of&nbsp;2016
 project-url: http://apps.npr.org/best-music-2016/
 role: Frontend web developer
 code: https://github.com/nprapps/bestmusic16

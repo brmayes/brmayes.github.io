@@ -1,6 +1,7 @@
 ---
 
 layout: default
+published: true
 modal-id: 6
 date: 2016-07-20
 img: rockymountain.jpg
@@ -12,7 +13,7 @@ description:
   - para: Over the past couple of months, NPR has done a variety of work on national parks. This is a virtual reality experience that takes the viewers to the Rocky Mountain National Park.
   - para: This VR project is the first of it’s kind for NPR. It emphasizes a combination of sound and environment to give an immersive experience.
 project-type: Project
-project-title: Stand At The Edge Of Geological Time
+project-title: Stand At The Edge Of Geological&nbsp;Time
 project-url: http://apps.npr.org/rockymountain-vr/
 role: Front end web developer
 code: https://github.com/nprapps/rockymountain

@@ -1,6 +1,7 @@
 ---
 
 layout: default
+published: true
 modal-id: 1
 date: 2016-05-13
 img: undercurrent.jpg
