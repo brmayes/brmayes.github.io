@@ -29,10 +29,12 @@ body {
 
 
 a {
+    transition: all .25s;
+    -webkit-transition: all .25s;
     color: $brand-color;
     text-decoration: none;
     &:hover{
-     color: $text-color;   
+     color: $text-color;
     }
 }
 
@@ -91,7 +93,7 @@ blockquote {
 .headline, .post-headline {
     font-size: 4em;
     margin-bottom: 0.5em;
-    
+
         @include media-query($on-palm) {
             font-size: 2em;
         }
@@ -137,7 +139,7 @@ blockquote {
     }
     @include media-query($on-palm) {
         height: 180px;
-    }   
+    }
 }
 
 // Adding 'Contents' headline to the TOC

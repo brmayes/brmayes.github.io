@@ -1,10 +1,10 @@
 ### your site title here
-
-title: Hagura - Light!
+title: Brittany Renee Mayes
 baseurl:  # name of the repository
-email: your@email.com
+email: brmayes16@gmail.com
 
-
+# Custom configs
+profile-picture: brit_bluewall.png
 
 highlighter: rouge
 markdown: kramdown

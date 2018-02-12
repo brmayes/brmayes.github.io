@@ -1,13 +1,39 @@
 ---
-title: About Hagura
-layout: post
+title: About
+layout: default
 permalink: /about/
 published: true
 ---
 
-For more themes please visit [https://jekyll-themes.com](https://jekyll-themes.com){: target="_blank" }
+<div class="about">
+	<p class="about-intro">Hi there, I'm Brittany.</p>
 
-Does the theme deserve a star?
+	<p>I'm a maker of <strong>graphics</strong> and <strong>news apps</strong> at NPR. I'm an alumna of the beautiful University of North Carolina at Chapel Hill.</p>
 
-<a class="github-button" href="https://github.com/sharu725/hagura" data-style="mega" data-count-href="/sharu725/hagura/stargazers" data-count-api="/repos/sharu725/hagura#stargazers_count" data-count-aria-label="# stargazers on GitHub" aria-label="Star sharu725/hagura on GitHub">Star</a>
-<script async defer src="https://buttons.github.io/buttons.js"></script>
+	<p>Code is something I love, and I'm lucky that I get to do it everyday. I'm passionate, inquisitive and enthusiastic. I never want to stop learning.</p>
+
+	<h3>Skills</h3>
+	<ul>
+		<li>HTML and CSS</li>
+		<li>Less and Sass</li>
+		<li>JavaScript and jQuery</li>
+		<li>D3.js</li>
+		<li>Python</li>
+		<li>Jupyter Notebook and Pandas</li>
+		<li>Git version control</li>
+	</ul>
+
+	<p>I spend time outside of work giving back to the community that gave so much to me. I love working with students and professionals to network, mentor and nurture growth.</p>
+
+	<h3>Community Involvement</h3>
+	<ul>
+		<li>Girls Who Code</li>
+		<li>Investigative Reporters and Editors</li>
+		<li>National Association of Black Journalists</li>
+		<li>NICAR Minority Fellowship Program</li>
+		<li>Online News Association Student Newsroom Mentor</li>
+		<li>ProPublica's Diversity Mentorship Program</li>
+	</ul>
+
+	<p>That was a little about me. I'd love to hear from you.</p>
+</div>

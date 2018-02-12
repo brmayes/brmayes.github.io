@@ -1,5 +1,6 @@
 ---
 layout: default
+published: true
 modal-id: 2
 date: 2016-06-04
 img: nytsji.jpg
@@ -11,7 +12,7 @@ description:
   - para: The NYTSJI is a two-week fellowship program for 26 student journalists in NABJ and NAHJ. The Institute was held from May 20 to June 4, 2017, at the CUNY Graduate School of Journalism in New York City. Students formed a working newsroom side-by-side with the guidance of journalists from CUNY and the NYT.
   - para: As digital editor, I built out the WordPress site template, produced the online content and created data visualizations. During my time, I developed my php skills, learned Flexbox and collected and analyzed demographic data.
 project-type: Fellowship
-project-title: New York Times Student Journalism Institute
+project-title: New York Times Student Journalism&nbsp;Institute
 project-url: http://nyc16.nytimes-institute.com
 project-links:
   - type: Chart
