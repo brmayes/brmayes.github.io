@@ -92,14 +92,14 @@ div.flex-container {
 
         h1 {
             @include center-item;
-            font-size: 25px;
+            font-size: 22px;
             width: 175px;
             text-align: center;
             line-height: 2rem;
         }
 
         div.nav {
-            font-size: 20px;
+            font-size: 18px;
             display: block;
             margin: 0 auto;
             margin-top: 15px;
@@ -110,7 +110,7 @@ div.flex-container {
                 font-size: 30px;
 
                 i {
-                    margin-right: 8px;
+                    margin-right: 3px;
 
                     &.ion-paper-airplane {
                         margin-right: 0;
