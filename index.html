@@ -6,7 +6,7 @@ layout: default
 {% for post in site.posts %}
     {% if post.published != 'false' %}
             <div class="post">
-                <a href="{{ post.project-url }}">
+                <a class="headline-link" href="{{ post.project-url }}">
                     <h3>{{ post.project-title }}</h3>
                 </a>
                 <div class="img-wrapper">
