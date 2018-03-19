@@ -9,6 +9,7 @@ alt: undercurrent
 project-date: May 13, 2016
 client: UNC-CH
 category: Web Design and Development
+tldr: For an international documentary project, a team of student videographers, reporters, developers and designers travelled to Bocas del Toro, Panama to tell the stories of the intersection of culture and environment. It won Excellence and Innovation in Visual Digital Storytelling award at the 2016 Online Journalism Awards.
 description:
   - para: For an international documentary project, a team of student videographers, reporters, developers and designers travelled to Bocas del Toro, Panama to tell the stories of the intersection of culture and environment.
   - para: The project includes a combination of 5 short documentaries, interactive graphics, articles and 360 videos!

@@ -9,6 +9,7 @@ alt: npr live blog
 project-date: Nov. 8, 2016
 client: NPR
 category: Application
+tldr: On 2016 Election Day, the live blog allowed NPR reporters to quickly and easily add up-to-date coverage to the site for national election coverage. I worked with a senior developer to build the liveblog rig based on the <a href="https://www.npr.org/2016/09/26/495115346/fact-check-first-presidential-debate">annotation rig</a>.
 description:
   - para: The 2016 election was nothing short of constant twists and turns. On Election Day, NPR wanted coverage to match the fast pace of it all.
   - para: The live blog allowed reporters to quickly and easily add up-to-date coverage to NPR's site for election coverage. The blog was constantly updating and featured a "Get Caught Up" section that pulled Electoral College results and the most important information. The blog allowed embeddable photos, videos, graphics, tweets and links throughout, as well as the ability to share separate posts.

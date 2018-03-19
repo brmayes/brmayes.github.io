@@ -19,8 +19,12 @@ published: true
 		<li>JavaScript and jQuery</li>
 		<li>D3.js</li>
 		<li>Python</li>
+		<li>Data analysis</li>
 		<li>Jupyter Notebook and Pandas</li>
+		<li>QGIS</li>
+		<li>Illustrator and Photoshop</li>
 		<li>Git version control</li>
+		<li>AWS familiarity</li>
 	</ul>
 
 	<p>I spend time outside of work giving back to the community that gave so much to me. I love working with students and professionals to network, mentor and nurture growth.</p>
@@ -34,6 +38,8 @@ published: true
 		<li>Online News Association Student Newsroom Mentor</li>
 		<li>ProPublica's Diversity Mentorship Program</li>
 	</ul>
+
+	<p>If you'd like, you can take a look at my <a href="/img/MayesResume.pdf">resume</a>.</p>
 
 	<p>That was a little about me. I'd love to hear from you.</p>
 </div>

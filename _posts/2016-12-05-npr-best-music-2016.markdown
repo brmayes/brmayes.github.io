@@ -9,13 +9,14 @@ alt: npr best music 2016
 project-date: Dec. 5, 2016
 client: NPR
 category: Application
+tldr: At the end of each year, NPR Music curates a list of the year's best music. The emphasis in 2016 was on the ability to scan then curate a favorites lists. I worked with a designer and developer to sketch and build the 2016 Best Music app in three weeks.
 description:
   - para: At the end of each year, NPR Music curates a list of the year's best music. This project showcases the lists from the music team's hard work in bringing to light the top music of the year. From "Heavy Rotation" to the "All Songs Considered Listeners' Poll", this app has it all.
   - para: Other features include the ability to sample the music with an embed added to each modal, favorite to curate specific to the reader and a smarturl to add the music to the listener's platform of choice.
 project-type: Application
 project-title: Best Music of&nbsp;2016
 project-url: http://apps.npr.org/best-music-2016/
-role: Frontend web developer
+role: Front end developer
 code: https://github.com/nprapps/bestmusic16
 data: none
 tools:

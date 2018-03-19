@@ -7,13 +7,16 @@ layout: default
     {% if post.published != 'false' %}
             <div class="post">
                 <a href="{{ post.project-url }}">
-
-                    <img alt="{{ post.title }}" src="{{ site.baseurl }}/img/thumbnails/{{ post.img }}" />
                     <h3>{{ post.project-title }}</h3>
-                    <!-- {% for p in post.description %}
-                        <p class="description">{{ p.para }}</p>
-                    {% endfor %} -->
                 </a>
+                <div class="img-wrapper">
+                    <img alt="{{ post.title }}" src="{{ site.baseurl }}/img/thumbnails/{{ post.img }}" />
+                </div>
+                <div class="meta-wrapper">
+                    <p class="description">{{ post.project-date }}</p>
+                    <p class="description">{{ post.role }}</p>
+                    <p class="description">{{ post.tldr }} {% if post.code %}View the <a href="{{ post.code }}">code</a>.{% endif %}</p>
+                </div>
             </div>
     {% endif %}
 {% endfor %}
