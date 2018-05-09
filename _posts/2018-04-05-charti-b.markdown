@@ -1,0 +1,21 @@
+---
+
+layout: default
+published: true
+date: 2018-04-09
+img: charti-b.png
+alt:
+project-date: April 5, 2018
+client:
+category:
+project-title: The Business Of Being Cardi B
+project-url: https://www.npr.org/sections/therecord/2018/04/05/599592959/the-business-of-being-cardi-b
+role: Graphics developer
+code:
+tldr: Cardi B has an explosive personality that's helped her climb to the top. Here's a look at her major milestones.
+data:
+tools:
+  - title: D3.js
+    url:
+
+---

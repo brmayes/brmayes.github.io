@@ -39,6 +39,15 @@ published: true
 		<li>ProPublica's Diversity Mentorship Program</li>
 	</ul>
 
+	<p>Sometimes, I even win things? (Though, clearly, 2017 was a bust.)</p>
+
+	<h3>Awards and Recognition</h3>
+	<ul>
+		<li>2018 DCFemTech Award, Data</li>
+		<li>2016 Stuart Sechriest Award for Outstanding Graduating Senior, Visual Communication</li>
+		<li>2016 Excellence and Innovation in Visual Digital Storytelling, Online Journalism Awards</li>
+	</ul>
+
 	<p>If you'd like, you can take a look at my <a href="/img/MayesResume.pdf">resume</a>.</p>
 
 	<p>That was a little about me. I'd love to hear from you.</p>
