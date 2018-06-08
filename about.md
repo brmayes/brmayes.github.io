@@ -8,7 +8,7 @@ published: true
 <div class="about">
 	<p class="about-intro">Hi there, I'm Brittany.</p>
 
-	<p>I'm a maker of <strong>graphics</strong> and <strong>news apps</strong> at NPR. I'm an alumna of the beautiful University of North Carolina at Chapel Hill.</p>
+	<p>I'm a <strong>graphics reporter</strong> at the <strong>Washington Post</strong>. I was raised by NPR Visuals, and I'm an alumna of the beautiful University of North Carolina at Chapel Hill.</p>
 
 	<p>Code is something I love, and I'm lucky that I get to do it everyday. I'm passionate, inquisitive and enthusiastic. I never want to stop learning.</p>
 
