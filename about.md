@@ -10,7 +10,9 @@ published: true
 
 	<p>I'm a <strong>graphics reporter</strong> at the <strong>Washington Post</strong>. I was raised by NPR Visuals, and I'm an alumna of the beautiful University of North Carolina at Chapel Hill.</p>
 
-	<p>Code is something I love, and I'm lucky that I get to do it everyday. I'm passionate, inquisitive and enthusiastic. I never want to stop learning.</p>
+	<p>Recently, I've been thinking about: Processes, aspirational skills, fostering collaboration, hiring and organizational hierarchy. Talk to me about any of these!</p>
+
+	<p>If you'd like, you can take a look at my <a href="/img/MayesResume.pdf">resume</a>.</p>
 
 	<h3>Skills</h3>
 	<ul>
@@ -24,13 +26,11 @@ published: true
 		<li>QGIS</li>
 		<li>Illustrator and Photoshop</li>
 		<li>Git version control</li>
-		<li>AWS familiarity</li>
 	</ul>
-
-	<p>I spend time outside of work giving back to the community that gave so much to me. I love working with students and professionals to network, mentor and nurture growth.</p>
 
 	<h3>Community Involvement</h3>
 	<ul>
+		<li>Press Pass Mentorship Program</li>
 		<li>Girls Who Code</li>
 		<li>Investigative Reporters and Editors</li>
 		<li>National Association of Black Journalists</li>
@@ -39,16 +39,12 @@ published: true
 		<li>ProPublica's Diversity Mentorship Program</li>
 	</ul>
 
-	<p>Sometimes, I even win things? (Though, clearly, 2017 was a bust.)</p>
-
 	<h3>Awards and Recognition</h3>
 	<ul>
 		<li>2018 DCFemTech Award, Data</li>
 		<li>2016 Stuart Sechriest Award for Outstanding Graduating Senior, Visual Communication</li>
 		<li>2016 Excellence and Innovation in Visual Digital Storytelling, Online Journalism Awards</li>
 	</ul>
-
-	<p>If you'd like, you can take a look at my <a href="/img/MayesResume.pdf">resume</a>.</p>
 
 	<p>That was a little about me. I'd love to hear from you.</p>
 </div>

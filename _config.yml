@@ -1,10 +1,10 @@
 ### your site title here
 title: Brittany Renee Mayes
 baseurl:  # name of the repository
-email: brmayes16@gmail.com
+email: brittany.mayes@washpost.com
 
 # Custom configs
-profile-picture: brit_sunset.jpg
+profile-picture: mayesb.jpg
 
 highlighter: rouge
 markdown: kramdown
