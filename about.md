@@ -8,7 +8,7 @@ published: true
 <div class="about">
 	<p class="about-intro">Hi there, I'm Brittany.</p>
 
-	<p>I'm a <strong>graphics reporter</strong> at the <strong>Washington Post</strong>. I was raised by NPR Visuals, and I'm an alumna of the beautiful University of North Carolina at Chapel Hill.</p>
+	<p>I'm a <strong>graphics reporter</strong> at the <strong>Washington Post</strong>. I am also an adjunct professor at <strong>The University of Maryland, College Park</strong>. I was raised by NPR Visuals, and I'm an alumna of the beautiful University of North Carolina at Chapel Hill.</p>
 
 	<p>Recently, I've been thinking about: Processes, aspirational skills, fostering collaboration, hiring and organizational hierarchy. Talk to me about any of these!</p>
 
