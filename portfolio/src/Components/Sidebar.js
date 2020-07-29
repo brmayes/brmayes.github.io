@@ -1,0 +1,44 @@
+import React from "react";
+import * as metadata from "./_metadata.js";
+
+const Sidebar = (props) => {
+	// const { label, text, children, className } = props;
+	return (
+		<div className="flex-item sidebar">
+			<img
+				className="profile-picture"
+				alt={metadata.title}
+				src={"./img/" + metadata.profilePicture}
+			/>
+			<a href="/">
+				<h1 className="headline">
+					{metadata.title}&nbsp;
+					<i className="em em-sunflower"></i>
+				</h1>
+			</a>
+			<div className="nav links">
+				<a href={metadata.baseurl + "/"}>Work</a>
+				<a href={metadata.baseurl + "/about/"}>About</a>
+			</div>
+			<div className="nav social">
+				<a href="http://twitter.com/BritRenee_" target="_blank">
+					<i className="ion-social-twitter"></i>
+				</a>
+				<a
+					href="https://www.washingtonpost.com/people/brittany-renee-mayes/"
+					target="_blank"
+				>
+					<i className="ion-ios-briefcase"></i>
+				</a>
+				<a href="http://github.com/brmayes" target="_blank">
+					<i className="ion-social-github"></i>
+				</a>
+				<a href="mailto:brittany.mayes@washpost.com" target="_blank">
+					<i className="ion-paper-airplane"></i>
+				</a>
+			</div>
+		</div>
+	);
+};
+
+export default Sidebar;
