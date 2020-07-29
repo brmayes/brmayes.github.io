@@ -1,0 +1,25 @@
+{
+	"short_name": "Brittany Renee Mayes",
+	"name": "Brittany Renee Mayes portfolio",
+	"icons": [
+		{
+			"src": "https://twemoji.maxcdn.com/2/72x72/1f33b.png",
+			"sizes": "64x64 32x32 24x24 16x16",
+			"type": "image/x-icon"
+		},
+		{
+			"src": "https://twemoji.maxcdn.com/2/72x72/1f33b.png",
+			"type": "image/png",
+			"sizes": "192x192"
+		},
+		{
+			"src": "https://twemoji.maxcdn.com/2/72x72/1f33b.png",
+			"type": "image/png",
+			"sizes": "512x512"
+		}
+	],
+	"start_url": ".",
+	"display": "standalone",
+	"theme_color": "#000000",
+	"background_color": "#ffffff"
+}
