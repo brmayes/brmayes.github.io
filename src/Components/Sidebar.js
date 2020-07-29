@@ -11,12 +11,10 @@ const Sidebar = (props) => {
 				alt={metadata.title}
 				src={"../img/" + metadata.profilePicture}
 			/>
-			<a href="/">
-				<h1 className="headline">
-					{metadata.title}&nbsp;
-					<i className="em em-sunflower"></i>
-				</h1>
-			</a>
+			<h1 className="headline">
+				{metadata.title}&nbsp;
+				<i className="em em-sunflower"></i>
+			</h1>
 			<div className="nav links">
 				<a href="#" onClick={() => setContentType("work")}>
 					Work
