@@ -1,17 +1,14 @@
-import React from "react";
+import React, { useState } from "react";
 import Sidebar from "./Components/Sidebar";
-import Posts from "./Components/Posts";
+import Content from "./Components/Content";
 import "./scss/App.scss";
 
-const data = require("./data/projects.json");
-
 function App() {
-	const filteredData = data.filter((d) => d.include === "TRUE");
-
+	const [contentType, setContentType] = useState("work");
 	return (
 		<div className="flex-container">
-			<Sidebar />
-			<Posts data={filteredData} />
+			<Sidebar setContentType={setContentType} />
+			<Content contentType={contentType} />
 		</div>
 	);
 }

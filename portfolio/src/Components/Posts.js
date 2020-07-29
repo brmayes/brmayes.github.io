@@ -31,11 +31,7 @@ const Sidebar = (props) => {
 
 	const projects = data.map((d) => makeProject(d));
 
-	return (
-		<div className="flex-item main">
-			<div className="post-container">{projects}</div>
-		</div>
-	);
+	return <div className="post-container">{projects}</div>;
 };
 
 export default Sidebar;
