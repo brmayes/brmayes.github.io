@@ -7,7 +7,12 @@ const Sidebar = (props) => {
 	function makeProject(post) {
 		return (
 			<div className="post" key={slugify(post.title)}>
-				<a className="headline-link" href={post.url} target="_blank">
+				<a
+					className="headline-link"
+					href={post.url}
+					target="_blank"
+					rel="noopener noreferrer"
+				>
 					<h3>{post.title}</h3>
 				</a>
 				<div className="img-wrapper">

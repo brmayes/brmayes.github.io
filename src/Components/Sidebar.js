@@ -24,19 +24,32 @@ const Sidebar = (props) => {
 				</a>
 			</div>
 			<div className="nav social">
-				<a href="http://twitter.com/BritRenee_" target="_blank">
+				<a
+					href="http://twitter.com/BritRenee_"
+					target="_blank"
+					rel="noopener noreferrer"
+				>
 					<i className="ion-social-twitter"></i>
 				</a>
 				<a
 					href="https://www.washingtonpost.com/people/brittany-renee-mayes/"
-					target="_blank"
+					target="_blankr"
+					el="noopener noreferrer"
 				>
 					<i className="ion-ios-briefcase"></i>
 				</a>
-				<a href="http://github.com/brmayes" target="_blank">
+				<a
+					href="http://github.com/brmayes"
+					target="_blank"
+					rel="noopener noreferrer"
+				>
 					<i className="ion-social-github"></i>
 				</a>
-				<a href="mailto:brittany.mayes@washpost.com" target="_blank">
+				<a
+					href="mailto:brittany.mayes@washpost.com"
+					target="_blank"
+					rel="noopener noreferrer"
+				>
 					<i className="ion-paper-airplane"></i>
 				</a>
 			</div>
