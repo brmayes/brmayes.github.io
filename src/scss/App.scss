@@ -61,6 +61,7 @@ div.flex-container {
 	div.main {
 		order: 2;
 		flex-grow: 2;
+		margin-bottom: 100px;
 	}
 
 	@include media-query($on-palm) {

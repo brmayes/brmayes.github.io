@@ -1,8 +1,107 @@
 [
+    {
+		"title": "Surviving as a Black transgender woman in Baton Rouge",
+		"date": "June 29, 2021",
+		"role": "Data reporter",
+		"desc": "For Black transgender women, intimate relationships are key to survival. But too often, they lead to death.",
+		"url": "https://www.washingtonpost.com/dc-md-va/2021/06/28/transgender-women-homicides-intimate-partner-violence/",
+		"img": "https://www.washingtonpost.com/resizer/-hUIEvzfzb0cQ_j6Ajy9v5_eSik=/480x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BD2VFEFYUYI6XPCKMKCJZ5WMVE.jpg",
+		"include": "TRUE"
+	},
+    {
+		"title": "Tensions in the U.S. Catholic Church over abortion, race and politics come to a head in a Maryland classroom",
+		"date": "May 28, 2021",
+		"role": "Reporter",
+		"desc": "The exchange eventually led to a couple dozen families at the school of 270 students calling for a pastor's removal over what they consider politically charged and racially insensitive remarks.",
+		"url": "https://www.washingtonpost.com/religion/2021/05/28/maryland-catholic-school-abortion-race-tensions/",
+		"img": "https://www.washingtonpost.com/resizer/nHlfcnT8BlP4JCYCtkj3Rpp7PEs=/480x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/TDWZ6BV4BQI6XERKYQGJO5F4JA.jpg",
+		"include": "TRUE"
+	},
+    {
+		"title": "For Muslim candidates, question on Virginia debate stage was no surprise",
+		"date": "May 27, 2021",
+		"role": "Reporter",
+		"desc": "A TV station apologized after a Democrat running for lieutenant governor was asked whether he could represent all” Virginians.",
+		"url": "https://www.washingtonpost.com/dc-md-va/2021/05/27/sam-rasoul-debate-muslim-question/",
+		"img": "https://www.washingtonpost.com/resizer/moGBCpfeEOOpjSUpP195noCkJ8U=/480x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/KGAP7TF6KYI6XERKYQGJO5F4JA.jpg",
+		"include": "TRUE"
+	},
+    {
+		"title": "Vaccination drives at area mosques have been successful in reaching Muslims and non-Muslims alike",
+		"date": "May 10, 2021",
+		"role": "Reporter",
+		"desc": "As Ramadan comes to a close, the coronavirus vaccines are offering Muslims the hope of standing shoulder to shoulder in prayer again.",
+		"url": "https://www.washingtonpost.com/dc-md-va/2021/05/10/covid-vaccines-muslims/",
+		"img": "https://www.washingtonpost.com/resizer/ViV-cwjcy0VP8bTEHkry_Bk2hvA=/480x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/6MDZ2UFRSEI6XPEW7X2V3ZB354.jpg",
+		"include": "TRUE"
+	},
+    {
+		"title": "They moved into churches to avoid deportation. Now they’re asking: Is it safe to leave?",
+		"date": "April 5, 2021",
+		"role": "Reporter",
+		"desc": "President Biden froze deportations for 100 days, but a federal judge quickly blocked that order, creating a dilemma for those still in sanctuary.",
+		"url": "https://www.washingtonpost.com/dc-md-va/2021/04/05/trump-immigration-sanctuary/",
+		"img": "https://www.washingtonpost.com/resizer/mj6rOH0mATkQsFfdf9AmOjHYnP4=/480x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/CDDAHEES5UI6XKW4V54HAGRQZI.jpg",
+		"include": "TRUE"
+	},
+    {
+		"title": "New delay in census process probably ends Trump’s plan to exclude undocumented immigrants from apportionment",
+		"date": "Jan. 6, 2021",
+		"role": "Reporter",
+		"desc": "The change in deadline effectively stops the president’s effort to exclude undocumented immigrants when determining how many seats in the House each state gets for the next 10 years.",
+		"url": "https://www.washingtonpost.com/dc-md-va/2021/01/06/census-delay-trump-undocumented-apportionment/",
+		"img": "https://www.washingtonpost.com/resizer/_BroomFU_64l86FnbmbhjOwKkVE=/480x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/NOGHKLR6DMI6XNMLCYR7MJTZMA.jpg",
+		"include": "TRUE"
+	},
+    {
+		"title": "Exit poll results and analysis for the 2020 presidential election",
+		"date": "Nov. 7, 2020",
+		"role": "Data pipeline developer",
+		"desc": "See how various groups voted for Donald Trump and Joe Biden based on surveys of voters.",
+		"url": "https://www.washingtonpost.com/elections/interactive/2020/exit-polls/presidential-election-exit-polls/",
+		"img": "https://www.washingtonpost.com/resizer/Ogshn8POOm_qoJdFE0qP7YpPVHA=/480x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/GGAJFBYPUBAQPDKYEY7RUKBLPI.jpg",
+		"include": "TRUE"
+	},
+    {
+		"title": "Early-voting numbers: Over 100 million turned out before Election Day",
+		"date": "Oct. 20, 2020",
+		"role": "Graphics and data pipeline developer",
+		"desc": "In 2016, 47 million Americans cast ballots before Election Day. By Oct. 22 of this year, that record was broken, and by Nov. 3 it was shattered.",
+		"url": "https://www.washingtonpost.com/graphics/2020/elections/early-voting-numbers-so-far/",
+		"img": "https://www.washingtonpost.com/resizer/LhpX6usFGhPP05jEArjvbIxUaIA=/480x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZZMIYQOCU5GEHJ5HM7HYZFZ64E.png",
+		"include": "TRUE"
+	},
+    {
+		"title": "Vote by mail: Which states allow absentee voting",
+		"date": "Sept. 25, 2020",
+		"role": "Graphics developer",
+		"desc": "The coronavirus pandemic will change how millions of Americans vote in November, as states expand access to vote-by-mail as a safer alternative to voting in person.",
+		"url": "https://www.washingtonpost.com/graphics/2020/politics/vote-by-mail-states/",
+		"img": "https://www.washingtonpost.com/resizer/1w52EserWMNEfstOCoSkjFsLKtc=/480x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/JUXOIVWQNZCOBOCSSAJQPV3KOU.png",
+		"include": "TRUE"
+	},
+    {
+		"title": "How to vote in your state",
+		"date": "Sept. 9, 2020",
+		"role": "Developer and designer",
+		"desc": "Voting in 2020? Here's everything you need to know about voting by mail, in person, early or absentee.",
+		"url": "https://www.washingtonpost.com/elections/2020/how-to-vote/",
+		"img": "https://www.washingtonpost.com/resizer/oB-bAFC79KypGSPZFk-c9qgNPMk=/480x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/YUTOG3EBY5EQTDBUONKM7X7WCQ.jpg",
+		"include": "TRUE"
+	},
+    {
+		"title": "Since 2016, 11 states and D.C. have expanded voting rights for the currently and formerly incarcerated",
+		"date": "Aug. 12, 2020",
+		"role": "Reporter",
+		"desc": "Millions have regained the right to vote since the 2016 election through expanded voting access for formerly and currently incarcerated Americans convicted of a felony.",
+		"url": "https://www.washingtonpost.com/politics/2020/08/12/since-2016-11-states-dc-have-expanded-voting-rights-currently-formerly-incarcerated/",
+		"img": "https://www.washingtonpost.com/resizer/CoOjDNYpz9s0fgvHpDBUIp1O_PU=/480x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZYM2KGUBUVAV7PH3MQ7HXOHBFY.jpg",
+		"include": "TRUE"
+	},
 	{
 		"title": "Demand for anti-racist literature is up. These black bookstore owners hope it lasts.",
-		"date": "Jul 2, 2020",
-		"role": "Reporter",
+		"date": "July 2, 2020",
+		"role": "Reporter and designer",
 		"desc": "Data show a rise in interest in anti-racist and social justice titles following George Floyd’s death. As black-owned bookstores are scrambling to keep up with demand, they’re hopeful it continues.",
 		"url": "https://www.washingtonpost.com/graphics/2020/business/black-owned-bookstores-anti-racist-literature/",
 		"img": "https://www.washingtonpost.com/resizer/Zk3UzLjRzm-KUJsi9Fd30BvGoiQ=/480x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/VSGYAQFLGJEU7MXGYQUPHPXVLM.png",
@@ -10,8 +109,8 @@
 	},
 	{
 		"title": "U.S. coronavirus cases and state maps: Tracking cases, deaths",
-		"date": "Jun 26, 2020",
-		"role": "Developer",
+		"date": "June  26, 2020",
+		"role": "Data pipeline developer",
 		"desc": "The death toll from covid-19 began to rise steadily in early March, then more sharply as the disease spread to every state and most U.S. territories.",
 		"url": "https://www.washingtonpost.com/graphics/2020/national/coronavirus-us-cases-deaths/",
 		"img": "https://www.washingtonpost.com/resizer/Du0ntB7TEH4yoJHuCkfuvUOHuDQ=/480x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/GR6JLDETOZB23D7PFCISTZ6L2I.jpg",
@@ -20,7 +119,7 @@
 	{
 		"title": "Where Americans are still staying at home the most",
 		"date": "May 6, 2020",
-		"role": "Developer",
+		"role": "Graphics developer",
 		"desc": "The majority of Americans are still spending much more of their time at home than before the pandemic. But in some regions of the U.S. people are moving around more than they were in March and April, even in areas where coronavirus stay-at-home restrictions haven’t lifted.",
 		"url": "https://www.washingtonpost.com/graphics/2020/national/map-us-still-staying-home-coronavirus/",
 		"img": "https://www.washingtonpost.com/resizer/My4al9mEjzEPRgLzJhLP4TYxSm8=/480x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QX364SWW3ZE2DFBLDHWGAFXPYY.png",
@@ -28,8 +127,8 @@
 	},
 	{
 		"title": "Super Tuesday Democratic primary exit polls and analysis",
-		"date": "Mar 4, 2020",
-		"role": "Developer",
+		"date": "March 4, 2020",
+		"role": "Data pipeline developer",
 		"desc": "See the strengths and weaknesses of each Democratic candidate, according to surveys of voters as they exited randomly selected voting sites in Super Tuesday states.",
 		"url": "https://www.washingtonpost.com/graphics/politics/exit-polls-2020-super-tuesday-primary/",
 		"img": "https://www.washingtonpost.com/resizer/8zZXU6d9yK-4Z3pdYBYs3oApDBQ=/480x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/KEONUE5RXJBJ3J4AMYT5T5GDG4.jpg",
@@ -37,8 +136,8 @@
 	},
 	{
 		"title": "Their 2018 win was historic. What have these Democrats accomplished?",
-		"date": "Jan 30, 2020",
-		"role": "Reporter",
+		"date": "Jan. 30, 2020",
+		"role": "Reporter and designer",
 		"desc": "It's been a year since the wave election gave the House the youngest and most diverse group of lawmakers ever.",
 		"url": "https://www.washingtonpost.com/graphics/2020/politics/house-freshman-class/",
 		"img": "https://www.washingtonpost.com/resizer/oCE1u1NNKzqtOmo2yDdU_pXfRA8=/480x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/JGV77UAKZNGHVL46T6ZXQWPYB4.jpg",
@@ -46,8 +145,8 @@
 	},
 	{
 		"title": "Quiz: Which of these 2020 Democrats agrees with you most?",
-		"date": "Jan 26, 2020",
-		"role": "Developer",
+		"date": "Jan. 26, 2020",
+		"role": "Developer and designer",
 		"desc": "The Post has asked each Democratic candidate where they stand on more than 85 policy questions. Now, it’s your turn to answer.",
 		"url": "https://www.washingtonpost.com/graphics/politics/policy-2020/quiz-which-candidate-agrees-with-me/",
 		"img": "https://www.washingtonpost.com/resizer/68hSDVHtUNO1s9agQHxCsEw9V14=/480x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/A4CH236JGZGFTCVMQSULLOQVUU.jpg",
@@ -55,8 +154,8 @@
 	},
 	{
 		"title": "How the opioid epidemic evolved",
-		"date": "Dec 23, 2019",
-		"role": "Reporter",
+		"date": "Dec. 23, 2019",
+		"role": "Graphics reporter",
 		"desc": "An exclusive analysis of county-level data shows the predominant cause of opioid overdose deaths shifted between pills, heroin and fentanyl as the epidemic got worse.",
 		"url": "https://www.washingtonpost.com/graphics/2019/investigations/opioid-pills-overdose-analysis/",
 		"img": "https://www.washingtonpost.com/resizer/6qlKZ0Q1Wp-TrzKehyJAppb1LwU=/480x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/5J3D6MBFUUI6VHGJ4GOPXSD6KE.jpg",
@@ -64,8 +163,8 @@
 	},
 	{
 		"title": "More and deadlier: Mass shooting trends in America",
-		"date": "Aug 5, 2019",
-		"role": "Reporter / content lead",
+		"date": "Aug. 5, 2019",
+		"role": "Reporter and content lead",
 		"desc": "Four or more people have been killed in a mass shooting every 47 days, on average, since June 17, 2015 when a young white supremacist killed nine people at a historic African American church in Charleston, S.C. This weekend, the 30th and 31st such shootings since then took place just 13 hours apart.",
 		"url": "https://www.washingtonpost.com/nation/2019/08/05/more-deadlier-mass-shooting-trends-america/",
 		"img": "https://www.washingtonpost.com/resizer/RWfwRJ-sgL17hjiecGSKr2o30XM=/480x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/NUXGBVJ6Z5DY3ENZ4JGOIQDHEE.jpg",
@@ -73,8 +172,8 @@
 	},
 	{
 		"title": "Who talked the most during the second Democratic debate",
-		"date": "Jul 29, 2019",
-		"role": "Reporter",
+		"date": "July 29, 2019",
+		"role": "Graphics reporter",
 		"desc": "Twenty contenders jostled for attention on the national stage, and CNN’s moderators wielded a heavy hand in policing their time — and provoking confrontation.",
 		"url": "https://www.washingtonpost.com/graphics/2019/politics/who-spoke-most-at-democratic-debate-july/?itid=ap_brittanyrenee%20mayes",
 		"img": "https://www.washingtonpost.com/resizer/p7mMcokh9ab4TgKF5J8S5VKg2Tw=/480x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/EQP35WVSLUI6TLGIDWCHXLGKOM.jpg",
@@ -92,7 +191,7 @@
 	{
 		"title": "Rebuilding Notre Dame: The Next Steps For Paris’s Famous Cathedral",
 		"date": "April 18, 2019",
-		"role": "Reporter",
+		"role": "Reporter and graphics developer",
 		"desc": "What experts say will need to happen to save Notre Dame through scrollytelling, 3d models and other graphics.",
 		"url": "https://www.washingtonpost.com/graphics/2019/world/rebuilding-notre-dame/",
 		"img": "notre-dame.jpg",
@@ -101,7 +200,7 @@
 	{
 		"title": "Do ‘One-And-Done’ Teams Succeed In March?",
 		"date": "March 20, 2019",
-		"role": "Reporter",
+		"role": "Reporter and graphics developer",
 		"desc": "This story is a deep dive into March Madness tournament statistics to answer the question many are asking: do one-and-done players win championships?",
 		"url": "https://www.washingtonpost.com/graphics/2019/sports/march-madness-one-and-dones/",
 		"img": "one-and-dones.jpg",
@@ -118,8 +217,8 @@
 	},
 	{
 		"title": "Does sports glory create a spike in college applications? It’s not a slam dunk.",
-		"date": "Dec 6, 2018",
-		"role": "Developer",
+		"date": "Dec. 6, 2018",
+		"role": "Graphics developer",
 		"desc": "At times, a college experiences a spike in applications after a football or basketball success. It’s known as the ‘Flutie Effect.’",
 		"url": "https://www.washingtonpost.com/graphics/2018/sports/ncaa-applicants/",
 		"img": "ncaa-championships.jpg",
@@ -127,8 +226,8 @@
 	},
 	{
 		"title": "2018 Voter Poll Results",
-		"date": "Nov 11, 2018",
-		"role": "Developer",
+		"date": "Nov. 11, 2018",
+		"role": "Graphics developer",
 		"desc": "During various elections, exit polls show the demographics of voters. Using AP VoteCast, The Post continually live-published results throughout election night.",
 		"url": "https://www.washingtonpost.com/graphics/2018/politics/voter-polls/georgia.html",
 		"img": "midterms-2016.jpg",
@@ -137,7 +236,7 @@
 	{
 		"title": "The U.S. Voting System Remains Vulnerable 6 Months Before Election Day. What Now?",
 		"date": "May 8, 2018",
-		"role": "Developer",
+		"role": "Graphics developer",
 		"desc": "Since the hacks during the 2016 election took place, voting machine cybersecurity is a notable topic. Learn about what your county uses to vote and whether or not it can be verified for top voting machine security.",
 		"url": "https://www.npr.org/2018/05/08/599452050/the-u-s-voting-system-remains-vulnerable-6-months-before-election-day-what-now#interactive-intro",
 		"img": "voting-machines.png",

@@ -8,17 +8,27 @@ const About = (props) => {
 			<p class="about-intro">Hi there, I'm Brittany.</p>
 
 			<p>
-				I'm a <strong>graphics reporter</strong> at the{" "}
-				<strong>Washington Post</strong>. I am also an adjunct professor
-				at <strong>The University of Maryland, College Park</strong>. I
-				was raised by NPR Visuals, and I'm an alumna of the beautiful
+				I'm currently an <strong>Opportunity Year fellow</strong> at the{" "}
+				<strong>Washington Post</strong>, but normally I'm a graphics
+				reporter who focuses on full-stack development. I am also an
+				adjunct professor at{" "}
+				<strong>The University of Maryland, College Park</strong>. I was
+				raised by NPR Visuals, and I'm an alumna of the beautiful
 				University of North Carolina at Chapel Hill.
 			</p>
 
 			<p>
-				Recently, I've been thinking about: Processes, aspirational
-				skills, fostering collaboration, hiring and organizational
-				hierarchy. Talk to me about any of these!
+				During my fellowship, I'm embedded on the Social Issues team
+				under the Post's Local desk. I'm focusing on sharpening my
+				writing and reporting skills with the goal of more deeply
+				integrating human-centered storytelling into graphics and data
+				reporting.
+			</p>
+
+			<p>
+				I'm always thinking about: Processes, aspirational skills,
+				hiring and organizational hierarchy + fostering collaboration.
+				Talk to me about any of these!
 			</p>
 
 			<p>
@@ -53,6 +63,15 @@ const About = (props) => {
 
 			<h3>Awards and Recognition</h3>
 			<ul>
+				<li>
+					2020 Pulitzer Prize Finalist in Breaking News Reporting for
+					coverage of the mass shootings in Dayton, Ohio and El Paso,
+					Texas
+				</li>
+				<li>
+					2020 Pulitzer Prize Finalist in Public Service for opioid
+					epidemic coverage
+				</li>
 				<li>2018 DCFemTech Award, Data</li>
 				<li>
 					2016 Stuart Sechriest Award for Outstanding Graduating
